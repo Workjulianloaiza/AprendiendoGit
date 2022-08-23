@@ -38,3 +38,13 @@ _ScrumTeam_
 
 * **Git Tutorial** https://www.tutorialspoint.com/git/index.htm
 
+* **Curso: GIT desde cero** https://ed.team/cursos/git
+
+* **Qué es GIT y para qué sirve** https://openwebinars.net/blog/que-es-git-y-para-que-sirve/
+
+* **Git y GitHub** https://developer.mozilla.org/es/docs/Learn/Tools_and_testing/GitHub
+
+* **¿Qué es GIT y cómo funciona?** https://www.pragma.com.co/academia/lecciones/que-es-git-y-como-funciona
+
+* **Git Tutorial** https://www.w3schools.com/git/default.asp
+
