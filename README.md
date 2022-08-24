@@ -1,7 +1,6 @@
-# Aprendiendo Git 🚀
+# Aprendiendo Git 🚀 123
 # MISIONTIC-UdeA-2022 🚀
 Proyecto oficial de desarrollo de software  
-###PRUEBA COMMIT SEBASTIAN###
 
 # Objetivos 🎯
 Se propone analizar, diseñar y construir una aplicación software que permita 
@@ -49,3 +48,4 @@ _ScrumTeam_
 
 * **Git Tutorial** https://www.w3schools.com/git/default.asp
 
+Comentario de Santiago
