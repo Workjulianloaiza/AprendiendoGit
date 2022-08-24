@@ -1,4 +1,4 @@
-# Aprendiendo Git 🚀
+# Aprendiendo Git 🚀Ms
 # MISIONTIC-UdeA-2022 🚀
 Proyecto oficial de desarrollo de software  
 
