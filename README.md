@@ -1,7 +1,8 @@
 # Aprendiendo Git 🚀Ms
 # MISIONTIC-UdeA-2022 🚀
 Proyecto oficial de desarrollo de software  
-
+# Grabación sesión de nivelación🚀
+https://udea.zoom.us/rec/share/36IiGuOPk3RUaL_8YQMTa6rdLwejV9pPC3syZEfI2dzEXJFy2J44reJc0ekwAnJh.D460E1ZX73Vt78eI
 # Objetivos 🎯
 Se propone analizar, diseñar y construir una aplicación software que permita 
 gestionar las ventas físicas y virtuales de una empresa de manufactura y hacerles 
